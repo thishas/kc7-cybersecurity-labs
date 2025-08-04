@@ -101,3 +101,11 @@ InboundNetworkEvents
 - Reset credentials for dwaudrey and other targeted employees.
 - Educate staff about phishing awareness (since attackers use social engineering).
 - Monitor for recurring attacks and update threat intelligence.
+
+---
+
+## 🏅 Achievement Unlocked: Rap Beef Badge
+
+[RogueProtector3569](https://kc7cyber.com/profile/7e06579f) earned the **Rap Beef** badge!
+
+> This analyst investigated a themed scenario involving rival hip-hop artists. They used key cybersecurity skills to identify suspicious communications and activities, analyzing internal messages to track unauthorized exchanges and uncover patterns. This exercise reinforced critical skills in data analysis, threat detection, and the application of cybersecurity principles in unconventional contexts.
